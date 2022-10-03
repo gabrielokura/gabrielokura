@@ -16,6 +16,7 @@ Porém, a ordem indicada é a seguir:
 - case-estagio-hype/README.md
 - vba-excel/README.md
 - hype-invest-app/README.md
+- integracao-plataformas/README.md
 
 ## MINHAS REDES SOCIAIS
 
