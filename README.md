@@ -13,4 +13,5 @@ Porém, a ordem indicada é a seguir:
 - sobre-mim/README.md
 - tcc-ifpr/README.md
 - grupo-de-investimentos/README.md
+- case-estagio-hype/README.md
 
