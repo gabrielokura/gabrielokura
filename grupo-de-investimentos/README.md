@@ -17,4 +17,4 @@ O grupo foi criado em 10/08/2020, inicialmente era somente eu e um amigo. Hoje s
 Tenho orgulho em ver onde eles estão chegando. 
 
 ### foto do grupo
-  em /grupo-de-investimentos/foto.PNG você encontra um print do grupo para maiores informações.
+  - em /grupo-de-investimentos/foto.PNG você encontra um print do grupo para maiores informações.
