@@ -1,0 +1,47 @@
+Sub email_investidores()
+
+
+Set objeto_outlook = CreateObject("Outlook.Application")
+
+Dim caminho_pasta_raiz As String
+
+Dim nome_arquivo As String
+
+caminho_pasta_raiz = "Z:\Relações com Investidores\Imposto de Renda\IR investidores 2020\Fer"
+
+Dim pasta As Object
+
+Set pasta = CreateObject("Scripting.FileSystemObject").getfolder(caminho_pasta_raiz)
+
+For linha = 2 To 206
+
+    Dim pasta_investidor As Object
+    
+    Set pasta_investidor = CreateObject("Scripting.FileSystemObject").getfolder("Z:\Relações com Investidores\Imposto de Renda\IR investidores 2020\Fer\" & Cells(linha, 3).Value)
+
+    Set Email = objeto_outlook.createitem(0)
+    
+    Email.display
+    
+    Email.To = Cells(linha, 3).Value
+    
+    Email.Subject = "Informe de Rendimentos 2020 | Hype Empreendimentos"
+    
+    Email.body = "Prezados, " & Chr(10) & Chr(10) _
+    & "Segue em anexo os informes de IR referentes ao ano de 2020. Pedimos perdão pelo atraso no envio." _
+    & Chr(10) & Chr(10) & "Qualquer dúvida, estamos à disposição." & Email.body
+    
+    
+    For Each arquivo In pasta_investidor.Files
+    
+        nome_arquivo = "Z:\Relações com Investidores\Imposto de Renda\IR investidores 2020\Fer\" & Cells(linha, 3).Value & "\" & arquivo.Name
+    
+        Email.Attachments.Add (nome_arquivo)
+        
+    Next
+    
+    Email.send
+
+Next
+
+End Sub

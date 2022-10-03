@@ -14,4 +14,9 @@ Porém, a ordem indicada é a seguir:
 - tcc-ifpr/README.md
 - grupo-de-investimentos/README.md
 - case-estagio-hype/README.md
+- vba-excel/README.md
 
+## MINHAS REDES SOCIAIS
+
+  - Linkedin: https://www.linkedin.com/in/gabriel-motelevicz-okura/
+  - Instagram: 
