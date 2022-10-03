@@ -11,4 +11,5 @@ Você é livre para consultar a pasta na ordem que escolher melhor.
 Porém, a ordem indicada é a seguir:
 
 - sobre-mim/README.md
+- tcc-ifpr/README.md
 
