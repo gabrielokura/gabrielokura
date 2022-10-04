@@ -17,6 +17,7 @@ Porém, a ordem indicada é a seguir:
 - vba-excel/README.md
 - hype-invest-app/README.md
 - integracao-plataformas/README.md
+- hype-invest-api/README.md
 
 # CURRÍCULO
 
