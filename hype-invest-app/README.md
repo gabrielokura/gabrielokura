@@ -7,3 +7,8 @@ Aceitei o desafio e construí o app (junto com um colega de trabalho) utilizando
 Por questões de sigilo, não disponibilizarei o projeto nesse repositório. Entretanto, algumas imagens das telas podem ser consultadas
 em: 
 - hype-invest-app/prints/...
+
+## STACKS
+
+O aplicativo foi desenvolvido utilizando a ferramenta Flutter com a linguagem de programação Dart. 
+Utilizamos também o Firebase como banco de dados e autenticador de usuários.

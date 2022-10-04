@@ -8,3 +8,9 @@ Por questões de sigilo, não disponibilizarei o projeto nesse repositório. Ent
 podem ser consultados em
 em: 
 - integracao-plataformas/arquitetura/...
+
+## STACKS
+
+O serviço foi escrito em TypeScript, utilizando a ferramenta Serverless [https://www.serverless.com/]. Mesmo que uma aplicação 
+serverless não precise de hospedagem, utilizei os serviços da AWS (como o AWS lambda, AWS cloud watch, AWS SQS Queue) para
+construí-lo.
