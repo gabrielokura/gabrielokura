@@ -21,7 +21,7 @@ Porém, a ordem indicada é a seguir:
 
 # CURRÍCULO
 
-Atualmente estou trabalhando como desenvolvedor de software na Cryptize [https://www.linkedin.com/company/cryptize/people/]
+Atualmente estou trabalhando como desenvolvedor de software na (Cryptize)[https://www.linkedin.com/company/cryptize/people/]
 em projetos que envolvem blockchain e aplicações descentralizadas.
 
 Estamos construindo uma API para flutter com o auxílio da Web3 Foundation. Essa biblioteca tem o objetivo de disponibilizar
