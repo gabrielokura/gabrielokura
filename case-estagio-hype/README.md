@@ -12,6 +12,6 @@ Sobre os documentos:
 Retrata uma mensagem que tive que elaborar fingindo ser um responsável do departamento
 ao informar um investidor sobre problemas com seu investimento.
 
-### bc-hype-2.png
+### apresentação-BC.pdf
 
 Retrata o documento da apresentação que elaborei (junto com a planilha).
