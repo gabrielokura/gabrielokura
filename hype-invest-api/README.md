@@ -10,9 +10,9 @@ em:
 
 ## STACKS
 
-A API foi desenvolvida utilizando a ferramenta NestJs com a linguagem de programação TypeScript. 
+A API foi desenvolvida utilizando a ferramenta [NestJs](https://docs.nestjs.com/) com a linguagem de programação TypeScript. 
 
 É uma ferramente que utiliza o NodeJs como base. Além disso, também utilizei o Firebase como bando de dados e
 autenticador de usuário (para permissões, validação de email, etc).
 
-Vale ressaltar a documentação das rotas que foi feita através da compatibilidade do Nestjs com o Swagger.
+Vale ressaltar a documentação das rotas que foi feita através da compatibilidade do Nestjs com o [Swagger](https://docs.nestjs.com/openapi/introduction).
