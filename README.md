@@ -13,7 +13,7 @@ Also, in my free time i like to contribute to Flutter Framework and ecosystem.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielokura&count_private=true&show_icons=true&theme=transparent)
 
-### 🥇 Most usage languages :
+### 🥇 Most used languages :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielokura&layout=compact)
 
