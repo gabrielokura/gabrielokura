@@ -1,16 +1,21 @@
-## MEU PORTFÓLIO 
 
-Olá, meu nome é Gabriel, mas sou mais conhecido como Okura (meu sobrenome). 
+# RESUME
 
-# CURRÍCULO
+I'm a software engineer with experiences in mobile app and game development.
 
-Atualmente estou trabalhando como desenvolvedor de software na [Cryptize](https://www.linkedin.com/company/cryptize/people/)
-em projetos que envolvem blockchain e aplicações descentralizadas.
+Currently studing iOS's ecosystem as a scholarship student at [Apple Developer Academy](https://developeracademy.pucpr.br). 
 
-Estamos construindo uma API para flutter com o auxílio da Web3 Foundation. Essa biblioteca tem o objetivo de disponibilizar
-toda a documentação e API fornecida pelo [Substrate](https://substrate.io/) para aplicativos escritos em Dart. 
+### :fire: My Git Stats :
 
-## MINHAS REDES SOCIAIS
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielokura&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielokura&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🥇 Most usage languages :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielokura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## SOCIAL MEDIAS
 
   - Linkedin: https://www.linkedin.com/in/gabriel-motelevicz-okura/
   - Instagram: https://www.instagram.com/gabrielokura_/
