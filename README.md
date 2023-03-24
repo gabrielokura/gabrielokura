@@ -15,7 +15,7 @@ Also, in my free time i like to contribute to Flutter Framework and ecosystem.
 
 ### 🥇 Most usage languages :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielokura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielokura&layout=compact)
 
 ## SOCIAL MEDIAS
 
