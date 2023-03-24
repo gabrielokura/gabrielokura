@@ -5,6 +5,8 @@ I'm a software engineer with experiences in mobile app and game development.
 
 Currently studing iOS's ecosystem as a scholarship student at [Apple Developer Academy](https://developeracademy.pucpr.br). 
 
+Also, in my free time i like to contribute to Flutter Framework and ecosystem.
+
 ### :fire: My Git Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielokura&theme=dark&background=000000)](https://git.io/streak-stats)
