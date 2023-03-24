@@ -9,9 +9,9 @@ Also, in my free time i like to contribute to Flutter Framework and ecosystem.
 
 ### :fire: My Git Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielokura&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielokura&theme=dark&background=000000)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielokura&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielokura&count_private=true&show_icons=true&theme=transparent)
 
 ### 🥇 Most usage languages :
 
