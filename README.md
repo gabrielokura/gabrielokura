@@ -3,7 +3,7 @@
 
 I'm a software engineer with experiences in mobile app and game development.
 
-Currently studying iOS's ecosystem as a scholarship student at [Apple Developer Academy](https://developeracademy.pucpr.br). 
+Currently working as an iOS Software Engineer at Instituto Eldorado and studying iOS's ecosystem as a scholarship student at [Apple Developer Academy](https://developeracademy.pucpr.br). 
 
 Also, in my free time i like to contribute to Flutter Framework and ecosystem.
 
